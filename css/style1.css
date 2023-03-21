@@ -1,0 +1,63 @@
+.navbar{
+    background-color: #000;
+
+}
+
+.logo{
+    color: gold;
+
+}
+#logoName{
+    color:gold;
+}
+
+.nav-item{
+    color:gold ;
+    
+}
+a:hover{
+    color: #fff;
+}
+
+.qoutes{
+    padding: 18rem 3rem 2rem 3rem;
+    text-align: center;
+    background: url(../img/qoutes.jpg);
+
+}
+
+#qoutes{
+    color: #fff;
+
+}
+
+.stats{
+    margin: 0rem 20rem;
+    padding: 0rem 5rem;
+}
+.carousel-item {
+    padding: 0rem 10rem;
+
+}
+.complaints{
+    margin: 3rem 25rem;
+
+}
+
+
+.basicRule{
+    padding: 3rem 3rem 3rem 3rem;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.trafficRules .content-info-list{
+    align-items: center;
+}
+
+.faq{
+    margin:7rem;
+
+}
+
